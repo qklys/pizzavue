@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dir",
+				"directionY"
+			],
+			[
+				"p",
+				"pixel_size"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"s",
+				"speed"
+			],
+			[
+				"di",
+				"directionY"
+			],
+			[
+				"dire",
+				"directionX"
+			],
+			[
+				"coors",
+				"coordsX"
+			],
+			[
+				"move",
+				"moveX"
+			],
+			[
+				"is",
+				"isBordered"
+			],
+			[
+				"v",
+				"visibility"
+			],
+			[
+				"img",
+				"imgSrc"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"less",
+				"less-watch-compiler"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"shield",
+				"shield_enabled"
+			],
+			[
+				"sh",
+				"ship2"
+			],
+			[
+				"S",
+				"StarDestroyer"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"Log",
+				"LogIn"
+			],
+			[
+				"L",
+				"LogIn"
+			],
+			[
+				"site",
+				"siteRetryPassReg"
+			],
+			[
+				"new",
+				"newLogin"
+			],
+			[
+				"si",
+				"siteLoginReg"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"bca",
+				"background-position\tproperty"
+			],
+			[
+				"background-a",
+				"background-attachment\tproperty"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/WEB/17.12.20/informer/src/App.vue",
+			"settings":
+			{
+				"buffer_size": 503,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 65.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/WEB/17.12.20/informer/src/App.vue",
+		"/C/WEB/17.12.20/informer/public/index.html",
+		"/C/WEB/17.12.20/informer/src/components/UserCard.vue",
+		"/C/WEB/17.12.20/user-card/style.css",
+		"/C/WEB/17.12.20/user-card/index.html",
+		"/C/WEB/17.12.20/main.html",
+		"/C/WEB/gitweb/Vue/firstproject/src/components/ToDoList.vue",
+		"/C/WEB/gitweb/Vue/firstproject/src/App.vue",
+		"/C/WEB/gitweb/Vue/firstproject/src/components/HelloWorld.vue",
+		"/C/PROMPROG/pacman/field/map.py",
+		"/C/PROMPROG/pacman/field/pacman.py",
+		"/C/PROMPROG/pacman/field/main.py",
+		"/C/WEB/gitweb/VueWeather/informer/index.html",
+		"/C/WEB/gitweb/VueWeather/informer/style.css",
+		"/C/WEB/gitweb/VueWeather/vuewith/src/main.js",
+		"/C/Users/еошг/Desktop/pacman.py",
+		"/C/PROMPROG/pacman/pacman/pacman.py",
+		"/C/PROMPROG/pacman/pacman/Archive/game.py",
+		"/C/PROMPROG/pacman/pacman/field/test.py",
+		"/C/WEB/gitweb/main.html",
+		"/C/PROMPROG/pacman/pacman.py",
+		"/C/PROMPROG/pacman.py",
+		"/C/PROMPROG/olimp.py",
+		"/C/WEB/12.11.20/2/main.html",
+		"/C/PROMPROG/run.py",
+		"/C/WEB/memegen_template/style.css",
+		"/C/Users/4CE0~1/AppData/Local/Temp/Rar$DRa20164.31998/index.html",
+		"/C/WEB/12.11.20/1/index.html",
+		"/C/Новая папка/game.py",
+		"/C/Users/еошг/Desktop/пром веб/sandbox_start/style.css",
+		"/C/Users/еошг/Desktop/пром веб/sandbox_start/script.js",
+		"/C/Users/еошг/Desktop/пром веб/sandbox_start/index.html",
+		"/C/Users/еошг/Desktop/promProg/run.py",
+		"/C/Users/еошг/Desktop/пром веб/portfolio/package.json",
+		"/C/Users/еошг/Desktop/пром веб/portfolio/less/_colors.less",
+		"/C/Users/еошг/Desktop/пром веб/portfolio/less/style.less",
+		"/C/Users/еошг/Desktop/пром веб/portfolio/css/style.css",
+		"/C/Users/еошг/Desktop/пром веб/portfolio/contacts.html",
+		"/C/Users/еошг/Desktop/пром веб/portfolio/index.html",
+		"/C/Новая папка/dauni.py",
+		"/C/Users/еошг/Desktop/пром веб/portfolio/package-lock.json",
+		"/C/Users/еошг/Desktop/пром веб/Полигон/css/style.css",
+		"/C/Users/еошг/Desktop/пром веб/Полигон/index.html",
+		"/C/Users/еошг/Desktop/пром веб/main.css",
+		"/C/Users/еошг/Desktop/пром веб/sss.html",
+		"/C/Users/еошг/Desktop/mfnlprjct/main.html",
+		"/C/Новая папка/main.py",
+		"/D/джава/snake.html",
+		"/C/Users/еошг/Desktop/96b213b0-e80c-4ba1-8780-33421789abb5.dem",
+		"/C/Users/4CE0~1/AppData/Local/Temp/Rar$DRa6392.45860/index.html",
+		"/C/Users/еошг/Desktop/mfnlprjct/main.css",
+		"/C/Users/еошг/Desktop/mfnlprjct/1.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/WEB/17.12.20/informer/src/App.vue",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 152.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
